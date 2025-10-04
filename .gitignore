@@ -1,0 +1,27 @@
+# Compilados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambiente virtual
+venv/
+.venv/
+
+# Build / distribuição
+build/
+dist/
+*.egg-info/
+
+# Testes
+.coverage
+htmlcov/
+pytest_cache/
+
+# Arquivos da IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Arquivos sensíveis
+.env
