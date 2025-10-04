@@ -99,6 +99,10 @@ Execute o script principal para testar o OCR:
 
 ```bash
 python main.py
+
+OR
+
+py -m src.main
 ```
 
 Ou substitua `main.py` pelo arquivo principal do seu projeto.
